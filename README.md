@@ -128,11 +128,3 @@ To understand the core concepts of linear regression and improve this project, I
 * The **Data Science Masterclass by Krish Naik**, which helped clarify the statistical and modeling aspects
 
 These resources provided valuable guidance, especially in structuring the model evaluation and visualization parts.
-
----
-
-## Notes
-
-* The main implementation file is currently named `paste.txt` — it should be renamed to something like `regression_analysis.py` before running.
-* The code is intended to serve as a base for any simple linear regression task on structured data with minimal changes.
-* It can be easily extended to handle multivariate regression or integrated into larger ML pipelines.
